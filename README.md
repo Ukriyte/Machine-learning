@@ -1,2 +1,2 @@
 # Machine-learning
-Basic ML/Dl projects
+Basic ML/DL projects
